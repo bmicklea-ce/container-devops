@@ -17,8 +17,7 @@ Containers provide a disposable, reusable unit that can execute a segment of a d
 ##Code & Image Lifecycle With Containers
 Containers defined by recipes allow developers to edit, version and commit changes in the same way they do code leading to a similar (and sometimes dependent) image lifecycle.
 
-1st column
-###The Code Lifecycle
+###1st column: The Code Lifecycle
 1. Clone
 2. Edit
 3. Analyze
@@ -29,8 +28,7 @@ Containers defined by recipes allow developers to edit, version and commit chang
 8. Commit
 9. Push
 
-2nd column
-###The Image Lifecycle
+###2nd column: The Image Lifecycle
 1. Clone
 2. Edit
 3. Build (Dependency [points to #4 in the Code Lifecycle above])
@@ -41,36 +39,22 @@ Containers defined by recipes allow developers to edit, version and commit chang
 ##Continuous Delivery and DevOps with Containers
 Containers are being used by the products below to evolve and revolutionize the continuous delivery and DevOps pipelines.
 
-1st column
-###Continuous Delivery:
-Continuous Development
+###1st column: Continuous Delivery:
+1. Continuous Development
+2. Continuous Integration
+3.Continuous Deployment
 
-Continuous Integration
-
-Continuous Deployment
-
-2nd Column
-###DevOps Pipeline:
+###2nd column: DevOps Pipeline:
 1. Author Code & Check In
-
 2. Check Out & Build Code
-
 3. Unit Test
-
 4. Quality Control
-
 5. Package and Archiving
-
 6. Integration Testing
-
 7. Deploy to Test Environment
-
 8. Deploy to pre-production
-
 9. Acceptance testing
-
 10. Deploy to Production
-
 11. Management & Monitoring
 
 
