@@ -87,7 +87,7 @@ Containers have not yet significantly changed source code management.
 
 Cloudbees [Jenkins CI](https://www.cloudbees.com/jenkins/about/code-quality-analysis) (build slaves runnable within  containers)
 
-[CodeShip](https://codeship.com/features/parallelci) (Docker-based continuous integration and delivery)
+[Codeship](https://codeship.com/features/parallelci) (Docker-based continuous integration and delivery)
 
 [Drone.io](http://blog.drone.io/2014/2/5/open-source-ci-docker.html) (open source continuous integration built on Docker)
 
